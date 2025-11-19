@@ -3,6 +3,8 @@
 ## 📌 Overview
 This project focuses on analyzing subscription data to generate actionable business insights. It covers customer churn, rejoin behaviour and monthly recurring revenue (MRR). The goal is to help businesses understand customer behaviour, improve retention, and forecast revenue.
 
+**Source**: https://mavenanalytics.io/data-playground/streaming-video-subscriptions
+
 ## ✨ Key Features
 - **Data Preparation**: Cleaning and structuring raw subscription data.
 - **Customer Metrics**: Active vs. canceled customers, churn rate, rejoin rate.
